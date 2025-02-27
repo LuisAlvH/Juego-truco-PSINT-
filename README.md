@@ -19,8 +19,8 @@ Jerarquía de Cartas (de mayor a menor)
 
 
 Mecanica del juego
-- Podremos cantar envido
-- Podremos cantar truco
+- Podremos cantar envido, real envido , falta envido;
+- Podremos cantar truco, retruco ,quiero vale 4
 - el juego es contra la maquina[la maquina devuelve cartas aleatorias y toma decisiones aleatorias]
 
 Mi experiencia creando el juego

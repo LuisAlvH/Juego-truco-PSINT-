@@ -6,22 +6,22 @@ Objetivo del juego
 
 
 Jerarquía de Cartas (de mayor a menor)
--Ancho de Espadas (1 de Espadas)
--Ancho de Bastos (1 de Bastos)
--Siete de Espadas
--Siete de Oro
--Treses
--Doses
--Ases de Copas y Oros
--Rey (12), Caballo (11) y Sota (10)
--Sietes de Copas y Bastos
--Seises, Cincos y Cuatros
+- Ancho de Espadas (1 de Espadas)
+- Ancho de Bastos (1 de Bastos)
+- Siete de Espadas
+- Siete de Oro
+- Treses
+- Doses
+- Ases de Copas y Oros
+- Rey (12), Caballo (11) y Sota (10)
+- Sietes de Copas y Bastos
+- Seises, Cincos y Cuatros
 
 
 Mecanica del juego
--Podremos cantar envido
--Podremos cantar truco
--el juego es contra la maquina[la maquina devuelve cartas aleatorias y toma decisiones aleatorias]
+- Podremos cantar envido
+- Podremos cantar truco
+- el juego es contra la maquina[la maquina devuelve cartas aleatorias y toma decisiones aleatorias]
 
 Mi experiencia creando el juego
 Quise digitalizar el Truco de la manera más fiel posible. Fue un desafío muy interesante, ya que me permitió aplicar y consolidar conocimientos básicos de programación mientras resolvía la lógica del juego.

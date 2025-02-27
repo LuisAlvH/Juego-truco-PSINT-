@@ -1,5 +1,5 @@
 Descripción del Truco (sin Flor)
-es un juego de cartas muy popular en argentina , se juega con cartas españolas y generalmente participa 2 , 4 o 6 jugadores.
+- es un juego de cartas muy popular en argentina , se juega con cartas españolas y generalmente participa 2 , 4 o 6 jugadores.
 
 Objetivo del juego
 - alcanzar 30 puntos antes que el oponente

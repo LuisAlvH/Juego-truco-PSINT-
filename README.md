@@ -16,6 +16,8 @@ Jerarquía de Cartas (de mayor a menor)
 -Rey (12), Caballo (11) y Sota (10)
 -Sietes de Copas y Bastos
 -Seises, Cincos y Cuatros
+
+
 Mecanica del juego
 -Podremos cantar envido
 -Podremos cantar truco
